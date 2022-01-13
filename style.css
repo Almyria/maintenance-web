@@ -3,11 +3,14 @@
   src: url("/BreeSerif.ttf");
 }
 
-:root{
-  font-size : 15px;
-  font-family: "BreeSerif", Verdana, Geneva, Tahoma, sans-serif;
-  line-height: 1.5rem;
-  cursor: default;
+body {
+  margin: 0;
+  color: #2c2c2c;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "BreeSerif", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
   background: url('https://almyria.fr/Diapo2.png');
 }
 
