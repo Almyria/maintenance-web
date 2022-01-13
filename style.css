@@ -35,6 +35,7 @@ body {
 }
 
 .text {
+  color: white;
   border-left: none;
   border: 1px solid white;
   padding: 20px;
