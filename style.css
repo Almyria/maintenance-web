@@ -1,0 +1,13 @@
+@font-face {
+    font-family: BreeSerif;
+    src: url("/BreeSerif.ttf");
+}
+
+:root{
+    font-size : 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5rem;
+    cursor: default;
+    background-color: #000000;
+    box-sizing: border-box;
+}
