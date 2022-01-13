@@ -36,6 +36,7 @@ body {
 
 .text {
   color: white;
+  background: #000000ad;
   border-left: none;
   border: 1px solid white;
   padding: 20px;
